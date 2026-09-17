@@ -1,4 +1,4 @@
-# LearnWise - AI-Powered Lecture Comprehension Assistant  
+# LearnWise - AI Powered Lecture Comprehension Assistant  
 
 
 Transform passive video watching into an active, efficient, and personalized learning session.  
